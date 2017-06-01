@@ -1,0 +1,8 @@
+# Ignore everything
+*
+# But not these files...
+!.gitignore
+!/exclude-ips-from-google-analytics/
+!/exclude-ips-from-google-analytics/*
+# ...even if they are in subdirectories
+#!*/
